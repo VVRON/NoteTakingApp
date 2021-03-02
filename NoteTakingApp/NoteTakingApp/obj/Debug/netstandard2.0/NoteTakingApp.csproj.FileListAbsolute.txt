@@ -1,0 +1,14 @@
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\netstandard2.0\NoteTakingApp.deps.json
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\netstandard2.0\NoteTakingApp.dll
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\netstandard2.0\ref\NoteTakingApp.dll
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\netstandard2.0\NoteTakingApp.pdb
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\NoteTakingApp.csprojAssemblyReference.cache
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\NoteTakingApp.AssemblyInfoInputs.cache
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\NoteTakingApp.AssemblyInfo.cs
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\NoteTakingApp.csproj.CoreCompileInputs.cache
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\XamlC.stamp
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\NoteTakingApp.dll
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\ref\NoteTakingApp.dll
+B:\C#\dotNET\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\netstandard2.0\NoteTakingApp.pdb

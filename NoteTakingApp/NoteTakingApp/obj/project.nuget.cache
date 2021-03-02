@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "l1zyDtTzDmd7G1EBgF4HUWSYlp6fTu1cMy1U0Y3z8nujA5V74+OnUOaFs1/xARQ9KCEQchwWYkYsMB/BYsm0PQ==",
+  "success": true,
+  "projectFilePath": "B:\\C#\\dotNET\\NoteTakingApp\\NoteTakingApp\\NoteTakingApp\\NoteTakingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VVRON\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\VVRON\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\VVRON\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
